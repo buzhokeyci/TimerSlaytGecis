@@ -1,0 +1,30 @@
+C:\Assets\BA\YMS8333\2-C# Intro\2020-12-14 TimerUygulamasi\2020-12-14 TimerUygulamasi\bin\Debug\2020-12-14 TimerUygulamasi.exe.config
+C:\Assets\BA\YMS8333\2-C# Intro\2020-12-14 TimerUygulamasi\2020-12-14 TimerUygulamasi\bin\Debug\2020-12-14 TimerUygulamasi.exe
+C:\Assets\BA\YMS8333\2-C# Intro\2020-12-14 TimerUygulamasi\2020-12-14 TimerUygulamasi\bin\Debug\2020-12-14 TimerUygulamasi.pdb
+C:\Assets\BA\YMS8333\2-C# Intro\2020-12-14 TimerUygulamasi\2020-12-14 TimerUygulamasi\obj\Debug\2020-12-14 TimerUygulamasi.csprojAssemblyReference.cache
+C:\Assets\BA\YMS8333\2-C# Intro\2020-12-14 TimerUygulamasi\2020-12-14 TimerUygulamasi\obj\Debug\_2020_12_14_TimerUygulamasi.Form1.resources
+C:\Assets\BA\YMS8333\2-C# Intro\2020-12-14 TimerUygulamasi\2020-12-14 TimerUygulamasi\obj\Debug\_2020_12_14_TimerUygulamasi.Properties.Resources.resources
+C:\Assets\BA\YMS8333\2-C# Intro\2020-12-14 TimerUygulamasi\2020-12-14 TimerUygulamasi\obj\Debug\2020-12-14 TimerUygulamasi.csproj.GenerateResource.cache
+C:\Assets\BA\YMS8333\2-C# Intro\2020-12-14 TimerUygulamasi\2020-12-14 TimerUygulamasi\obj\Debug\2020-12-14 TimerUygulamasi.csproj.CoreCompileInputs.cache
+C:\Assets\BA\YMS8333\2-C# Intro\2020-12-14 TimerUygulamasi\2020-12-14 TimerUygulamasi\obj\Debug\2020-12-14 TimerUygulamasi.exe
+C:\Assets\BA\YMS8333\2-C# Intro\2020-12-14 TimerUygulamasi\2020-12-14 TimerUygulamasi\obj\Debug\2020-12-14 TimerUygulamasi.pdb
+C:\Users\enesm\OneDrive\Masaüstü\2020-12-14 TimerUygulamasi\2020-12-14 TimerUygulamasi\bin\Debug\2020-12-14 TimerUygulamasi.exe.config
+C:\Users\enesm\OneDrive\Masaüstü\2020-12-14 TimerUygulamasi\2020-12-14 TimerUygulamasi\bin\Debug\2020-12-14 TimerUygulamasi.exe
+C:\Users\enesm\OneDrive\Masaüstü\2020-12-14 TimerUygulamasi\2020-12-14 TimerUygulamasi\bin\Debug\2020-12-14 TimerUygulamasi.pdb
+C:\Users\enesm\OneDrive\Masaüstü\2020-12-14 TimerUygulamasi\2020-12-14 TimerUygulamasi\obj\Debug\2020-12-14 TimerUygulamasi.csproj.AssemblyReference.cache
+C:\Users\enesm\OneDrive\Masaüstü\2020-12-14 TimerUygulamasi\2020-12-14 TimerUygulamasi\obj\Debug\_2020_12_14_TimerUygulamasi.Form1.resources
+C:\Users\enesm\OneDrive\Masaüstü\2020-12-14 TimerUygulamasi\2020-12-14 TimerUygulamasi\obj\Debug\_2020_12_14_TimerUygulamasi.Properties.Resources.resources
+C:\Users\enesm\OneDrive\Masaüstü\2020-12-14 TimerUygulamasi\2020-12-14 TimerUygulamasi\obj\Debug\2020-12-14 TimerUygulamasi.csproj.GenerateResource.cache
+C:\Users\enesm\OneDrive\Masaüstü\2020-12-14 TimerUygulamasi\2020-12-14 TimerUygulamasi\obj\Debug\2020-12-14 TimerUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\enesm\OneDrive\Masaüstü\2020-12-14 TimerUygulamasi\2020-12-14 TimerUygulamasi\obj\Debug\2020-12-14 TimerUygulamasi.exe
+C:\Users\enesm\OneDrive\Masaüstü\2020-12-14 TimerUygulamasi\2020-12-14 TimerUygulamasi\obj\Debug\2020-12-14 TimerUygulamasi.pdb
+C:\Users\enesm\OneDrive\Masaüstü\C#Projeler\Timer-Slayt Gecis\2020-12-14 TimerUygulamasi\bin\Debug\2020-12-14 TimerUygulamasi.exe.config
+C:\Users\enesm\OneDrive\Masaüstü\C#Projeler\Timer-Slayt Gecis\2020-12-14 TimerUygulamasi\bin\Debug\2020-12-14 TimerUygulamasi.exe
+C:\Users\enesm\OneDrive\Masaüstü\C#Projeler\Timer-Slayt Gecis\2020-12-14 TimerUygulamasi\bin\Debug\2020-12-14 TimerUygulamasi.pdb
+C:\Users\enesm\OneDrive\Masaüstü\C#Projeler\Timer-Slayt Gecis\2020-12-14 TimerUygulamasi\obj\Debug\2020-12-14 TimerUygulamasi.csproj.AssemblyReference.cache
+C:\Users\enesm\OneDrive\Masaüstü\C#Projeler\Timer-Slayt Gecis\2020-12-14 TimerUygulamasi\obj\Debug\_2020_12_14_TimerUygulamasi.Form1.resources
+C:\Users\enesm\OneDrive\Masaüstü\C#Projeler\Timer-Slayt Gecis\2020-12-14 TimerUygulamasi\obj\Debug\_2020_12_14_TimerUygulamasi.Properties.Resources.resources
+C:\Users\enesm\OneDrive\Masaüstü\C#Projeler\Timer-Slayt Gecis\2020-12-14 TimerUygulamasi\obj\Debug\2020-12-14 TimerUygulamasi.csproj.GenerateResource.cache
+C:\Users\enesm\OneDrive\Masaüstü\C#Projeler\Timer-Slayt Gecis\2020-12-14 TimerUygulamasi\obj\Debug\2020-12-14 TimerUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\enesm\OneDrive\Masaüstü\C#Projeler\Timer-Slayt Gecis\2020-12-14 TimerUygulamasi\obj\Debug\2020-12-14 TimerUygulamasi.exe
+C:\Users\enesm\OneDrive\Masaüstü\C#Projeler\Timer-Slayt Gecis\2020-12-14 TimerUygulamasi\obj\Debug\2020-12-14 TimerUygulamasi.pdb
